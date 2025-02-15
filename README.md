@@ -50,6 +50,7 @@ pip install -r requirements.txt
 
 ## 4️⃣ Run the application
 ```bash
+cd files
 streamlit run igris.py
 ```
 ---
