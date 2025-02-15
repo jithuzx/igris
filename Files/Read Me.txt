@@ -1,0 +1,29 @@
+Run command :
+
+streamlit run igris.py
+
+
+Path:
+
+Example: Z:\AI\dist\igris.exe
+
+
+Required pip packages(Copy Paste This Into Terminal):
+
+pip install streamlit ollama pytesseract pdfplumber easyocr numpy pillow asyncio googlesearch-python
+
+
+Packages For Python, AI & OCR:
+https://www.python.org/downloads/ (Download Latest Version)
+https://github.com/UB-Mannheim/tesseract/wiki
+https://ollama.com/download (Check For Updates)
+
+
+Ollama Installer AI:
+
+ollama pull phi3
+ollama pull gemma:7b
+ollama pull mistral:7b
+ollama pull llama3:8b
+ollama pull deepseek-r1:7b
+ollama pull llava:13b

@@ -1,0 +1,12 @@
+streamlit
+ollama
+pytesseract
+easyocr
+pdfplumber
+requests
+beautifulsoup4
+numpy
+pandas
+pillow
+asyncio
+google
